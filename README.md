@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manisha
+- 👋 Hi, I’m Manisha.
 I am a QA by profession.  
 In the long walk of software quality testing services when my responsibility was to observe and evaluate the performance of the software I was testing, now the practice has got embedded deep within my mindset.
 Learning behavior and patterns has become a hobby that I am planning to pursue further in my next milestone - Data Analysis.
