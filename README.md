@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manisha
-I am a QA by profession.
+I am a QA by profession.  
 In the long walk of software quality testing services when my responsibility was to observe and evaluate the performance of the software I was testing, now the practice has got embedded deep within my mindset.
 Learning behavior and patterns has become a hobby that I am planning to pursue further in my next milestone - Data Analysis.
 I have taken courses on Business Intelligence tools and have done some POCs to evolve better in the journey of data analysis.
